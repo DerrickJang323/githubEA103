@@ -4,6 +4,10 @@ package ch06;
  * 搭配TestCalculator.java一起使用
  */
 public class Calculator {
+
+	private float xxx;
+	private int xxx;
+	private String fff;
 	
 	private int xxx;
 	private float xxx;
