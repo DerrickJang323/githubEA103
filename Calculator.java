@@ -4,6 +4,9 @@ package ch06;
  * 搭配TestCalculator.java一起使用
  */
 public class Calculator {
+
+	private float xxx;
+	private int xxx;
 	
 	public int sum(int x, int y){
 	     System.out.println("method-1");
