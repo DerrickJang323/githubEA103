@@ -6,7 +6,10 @@ package ch06;
 public class Calculator {
 
 	private float xxx;
+
 	private long xxx;
+
+	
 	
 	
 	public int sum(int x, int y){
