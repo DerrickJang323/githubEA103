@@ -12,7 +12,6 @@
 Hello World ! </我是 Tomcat>
 Hello World ! </我是 Tomcat>
 Hello World ! </我是 Tomcat>
-Hello World ! </我是 Tomcat>
 </mytag:encodeHTML>
 
 </h1>
