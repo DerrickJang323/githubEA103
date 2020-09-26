@@ -5,9 +5,6 @@ package ch06;
  */
 public class Calculator {
 	
-	private int xxx;
-	private float xxx;
-	
 	public int sum(int x, int y){
 	     System.out.println("method-1");
 	     return x + y;
