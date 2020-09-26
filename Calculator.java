@@ -7,6 +7,7 @@ public class Calculator {
 
 	private float xxx;
 	private int xxx;
+	private String fff;
 	
 	public int sum(int x, int y){
 	     System.out.println("method-1");
